@@ -1,6 +1,6 @@
 # Paul & Charlène
 
-*Un conte de physique sentimentale.* Texte et voix : Damien Laine. 9 min 18.
+*Un conte de physique sentimentale.* Texte : Damien Laine. Voix : Damien Laine de synthèse. 9 min 44.
 
 **→ https://damienlaine.github.io/paul-et-charlene/**
 
